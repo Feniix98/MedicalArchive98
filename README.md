@@ -1,7 +1,7 @@
 # MedicalArchive98
 
 # Utilisation
-- *** Pour utiliser ce plugin il faudra : ***
+-  Pour utiliser ce plugin il faudra : 
 - Mettre le plugin dans votre serveur
 - Le lancer ou le relancer et puis c'est bon !
 
