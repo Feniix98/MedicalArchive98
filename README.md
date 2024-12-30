@@ -32,4 +32,4 @@ Si vous avez des idées ou des suggestions pour améliorer ce plugin, n'hésitez
 # ❗Informations supplémentaires
 - Le plugin possède un webhook pour me prévenir de qui utilise mes plugins et pouvoir les améliorer a la demande !
 # 📗  Dépendance
-ModKit & AAMenu : https://github.com/Aarnow/NovaLife_ModKit-Releases/releases/tag/v2.0.3
+[ModKit & AAMenu](https://github.com/Aarnow/NovaLife_ModKit-Releases/releases/latest)
