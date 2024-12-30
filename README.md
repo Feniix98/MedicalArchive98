@@ -7,7 +7,7 @@ Le plugin inclut également un système d'assurance santé, offrant la possibili
 Si vous avez des idées ou des suggestions pour améliorer ce plugin, n'hésitez pas à venir en MP !
 
 # 🔨 Utilisation
-- *** Pour utiliser ce plugin il faudra : ***
+-  Pour utiliser ce plugin il faudra : 
 - Mettre le plugin dans votre serveur
 - Le lancer ou le relancer et puis c'est bon !
 
