@@ -21,14 +21,6 @@ Si vous avez des idées ou des suggestions pour améliorer ce plugin, n'hésitez
 
 - *ConfidenceMoney* : Cette configuration est mis de base a **200** ce qui veut dire que l'action coute **200€** et peut être changer, si vous souhaitez le changer vous pouvez ! 
 
-# 🔌   Télechargement
-
-[MedicalArchive98](https://github.com/Feniix98/MedicalArchive98/releases/tag/Plugin)
-
-# ⚡ ReadMe
-
-[Page du ReadMe](https://github.com/Feniix98/MedicalArchive98)
-
 # ❗Informations supplémentaires
 - Le plugin possède un webhook pour me prévenir de qui utilise mes plugins et pouvoir les améliorer a la demande !
 # 📗  Dépendance
